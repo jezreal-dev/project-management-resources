@@ -1,5 +1,9 @@
 # PMP Exam Preparation & UI Solved Examination Repository
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PMBOK Version](https://img.shields.io/badge/PMBOK-6th%20%26%207th%20Ed-orange)](PMBOK_Comprehensive_Study_Guide.md)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jezreal-dev)
+
 This repository contains a comprehensive collection of study resources, visual guides, templates, and exam keys designed to prepare candidates for both local University of Ibadan Project Management courses (in collaboration with ARP Technology) and the official PMI Project Management Professional (PMP)® certification.
 
 ## Repository Contents
